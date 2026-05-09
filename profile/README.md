@@ -1,24 +1,33 @@
 # Navario
 
-Digital Workspaces, E-Commerce Operations and Process Automation.
+**Digital Workspaces, E-Commerce Operations and Process Automation.**
 
-Navario develops structured systems for operations, documentation, data insights and workspace-based collaboration.
+Navario builds structured systems for e-commerce operations, documentation, data insights and workspace-based collaboration.
+
+The first practical focus is JTL-based service operations: ERP workflows, support structures, data quality, reporting and reusable workspace concepts.
 
 ## Focus
 
-- E-Commerce operations
-- JTL and ERP workflows
-- Service operations
-- Data & insights
-- Customer workspaces
-- Documentation systems
-- Process automation
+- E-commerce operations and ERP workflows
+- JTL-Wawi, JTL workflows and JTL-Ameise processes
+- GREYHOUND support structures and service operations
+- Data insights, reporting and Power BI dashboards
+- Customer workspaces and documentation systems
+- Process automation and reusable operating standards
 
 ## Current status
 
-Navario is currently in early blueprint and setup phase.
+Navario is in early blueprint and setup phase.
 
-The first practical focus is on JTL-based service operations, Greyhound support structures, data insights and reusable workspace concepts.
+Core principle:
+
+> Navario is not JTL. JTL is the first strong use case.
+
+## Repositories
+
+Public repositories will be added when the first platform, documentation or tooling parts are ready.
+
+Internal blueprint repositories are currently used to structure strategy, services, workspace concepts and implementation planning.
 
 ## Links
 
