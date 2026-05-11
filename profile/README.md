@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/navario-github-organization-banner.svg" alt="navario organization banner" width="100%">
+  <img src="./assets/navario-github-oragnisation-banner.png" alt="navario organization banner" width="100%">
 </p>
 
 # Navario
